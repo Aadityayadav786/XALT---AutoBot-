@@ -1,5 +1,5 @@
 # 💬 Streamlit Web Chatbot Deployment Guide
-
+## Keep python version more than 3.8 best 3.13.2 while creating virtual env.
 This repository contains a deployable Streamlit chatbot app powered by Cohere API and MongoDB. Follow the step-by-step guide below to test it locally, deploy it on Render, and embed it into any website.
  
 ## ✅ Step 1: Clone This Repository

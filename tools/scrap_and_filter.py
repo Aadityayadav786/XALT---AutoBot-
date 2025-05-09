@@ -4,7 +4,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
-#import tldextract
+import tldextract
 import textwrap
 from cohere import Client
 from vector_database import build_or_update_vector_db

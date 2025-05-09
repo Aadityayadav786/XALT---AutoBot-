@@ -37,7 +37,7 @@ def commit_and_push_changes(repo_url: str, repo_name="xalt-chatbot-repo"):
 
     # Files and folders to copy
     files_to_include = ["frontend.py", "requirements.txt", ".env", "rag_pipeline.py", "vector_database.py", "README.md"]
-    folders_to_include = ["vectorstore", "agents", "utils"]
+    folders_to_include = ["vectorstore", "agents", "utils", "txt"]
 
     # Copy files
     for f in files_to_include:

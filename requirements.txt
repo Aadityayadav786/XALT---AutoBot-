@@ -11,3 +11,5 @@ pandas
 numpy
 cohere
 langchain
+langchain-community
+tldextract
