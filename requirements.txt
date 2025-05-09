@@ -13,3 +13,4 @@ cohere
 langchain
 langchain-community
 tldextract
+langchain-cohere
